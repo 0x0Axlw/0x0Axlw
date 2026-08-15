@@ -34,11 +34,7 @@ Focused on building understanding through hands-on work.</h3>
 
 ###
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<div align="center">
-  <img src="./github-calendar.svg" alt="GitHub contribution calendar" />
-</div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/0x0Axlw/0x0Axlw/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
